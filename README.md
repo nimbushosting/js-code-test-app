@@ -7,8 +7,7 @@ You should follow these steps:
 
 1. Create a GitHub Repository (priviate or public, up to you)
 2. Create a Vue application that will retrieve data from [](https://docs.trending-github.com/)
-3. Retrieve a list of trending repositories from `https://api.trending-github.com
-/github/repositories`.
+3. Retrieve a list of trending repositories from `https://api.trending-github.com/github/repositories`.
 4. Display each repository in table using Vue.js - Display the name, programming language, star count, fork count and authors avatar.
 5. Allow the star count and fork count columns to be sorted.
 6. Display the first 10 languages in a list from `https://api.trending-github.com/github/languages` 
